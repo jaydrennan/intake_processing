@@ -1,0 +1,12 @@
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libmime_guess2-11514aabe4d0edf1.rmeta: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/impl_bin_search.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/mime_types.rs /Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/build/mime_guess2-4994bbd8d53f92bd/out/mime_types_generated.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libmime_guess2-11514aabe4d0edf1.rlib: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/impl_bin_search.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/mime_types.rs /Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/build/mime_guess2-4994bbd8d53f92bd/out/mime_types_generated.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/mime_guess2-11514aabe4d0edf1.d: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/impl_bin_search.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/mime_types.rs /Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/build/mime_guess2-4994bbd8d53f92bd/out/mime_types_generated.rs
+
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/lib.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/impl_bin_search.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/mime_guess2-2.0.5/src/mime_types.rs:
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/build/mime_guess2-4994bbd8d53f92bd/out/mime_types_generated.rs:
+
+# env-dep:MIME_TYPES_GENERATED_PATH=/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/build/mime_guess2-4994bbd8d53f92bd/out/mime_types_generated.rs

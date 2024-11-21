@@ -1,0 +1,10 @@
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libarboard-588fa819af710f14.rmeta: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/common.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/mod.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/windows.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libarboard-588fa819af710f14.rlib: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/common.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/mod.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/windows.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/arboard-588fa819af710f14.d: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/common.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/mod.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/windows.rs
+
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/lib.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/common.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/mod.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/arboard-3.4.1/src/platform/windows.rs:

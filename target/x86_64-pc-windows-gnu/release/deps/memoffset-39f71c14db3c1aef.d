@@ -1,0 +1,10 @@
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libmemoffset-39f71c14db3c1aef.rmeta: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/raw_field.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/offset_of.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/span_of.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/libmemoffset-39f71c14db3c1aef.rlib: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/raw_field.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/offset_of.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/span_of.rs
+
+/Users/jaydrennan/projects/intake_processing/target/x86_64-pc-windows-gnu/release/deps/memoffset-39f71c14db3c1aef.d: /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/lib.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/raw_field.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/offset_of.rs /Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/span_of.rs
+
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/lib.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/raw_field.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/offset_of.rs:
+/Users/jaydrennan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.7.1/src/span_of.rs:

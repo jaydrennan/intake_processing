@@ -1,0 +1,1912 @@
+{
+  "test": {
+    "name": "test",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T15:31:53.842020Z"
+  },
+  "asdf": {
+    "name": "asdf",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:45:52.561815Z"
+  },
+  "Checklist 2": {
+    "name": "Checklist 2",
+    "checklist": {
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {}
+      }
+    },
+    "last_modified": "2024-11-21T06:33:34.875483Z"
+  },
+  "wer": {
+    "name": "wer",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:45:48.781519Z"
+  },
+  "car": {
+    "name": "car",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:47:49.324104Z"
+  },
+  "safd": {
+    "name": "safd",
+    "checklist": {
+      "Incident Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {}
+      }
+    },
+    "last_modified": "2024-11-21T06:35:43.439845Z"
+  },
+  "Checklist 3": {
+    "name": "Checklist 3",
+    "checklist": {
+      "Injuries Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          },
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:33:36.870867Z"
+  },
+  "l;jlkj;lkjasdf": {
+    "name": "l;jlkj;lkjasdf",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:58:31.672080Z"
+  },
+  "New Checklist": {
+    "name": "New Checklist",
+    "checklist": {
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          },
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              },
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {}
+      },
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {}
+      }
+    },
+    "last_modified": "2024-11-21T06:33:12.251905Z"
+  },
+  "dog": {
+    "name": "dog",
+    "checklist": {
+      "Home Tab": {
+        "checked": false,
+        "children": {
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          },
+          "Primary Contact: Attorney Assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager: Secretary for attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney: Attorney assigned": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney: Should be blank": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client Tab": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "DOB": {
+                "checked": false,
+                "children": {}
+              },
+              "SSN": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Check name spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Check DOL": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              },
+              "Spouse": {
+                "checked": false,
+                "children": {
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Defendant Tab": {
+        "checked": false,
+        "children": {
+          "Defendant Name": {
+            "checked": false,
+            "children": {}
+          },
+          "Insurance Company": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Claim Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Incident Tab": {
+        "checked": false,
+        "children": {
+          "Date of Incident": {
+            "checked": false,
+            "children": {}
+          },
+          "Location": {
+            "checked": false,
+            "children": {}
+          },
+          "Description": {
+            "checked": false,
+            "children": {}
+          },
+          "Police Report Number": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Injuries Tab": {
+        "checked": false,
+        "children": {
+          "Primary Injuries": {
+            "checked": false,
+            "children": {}
+          },
+          "Treatment Facilities": {
+            "checked": false,
+            "children": {}
+          },
+          "Current Treatment Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Pre-existing Conditions": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Health Insurance Tab": {
+        "checked": false,
+        "children": {
+          "Insurance Provider": {
+            "checked": false,
+            "children": {}
+          },
+          "Policy Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Group Number": {
+            "checked": false,
+            "children": {}
+          },
+          "Coverage Details": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Employment Tab": {
+        "checked": false,
+        "children": {
+          "Current Employer": {
+            "checked": false,
+            "children": {}
+          },
+          "Job Title": {
+            "checked": false,
+            "children": {}
+          },
+          "Work Status": {
+            "checked": false,
+            "children": {}
+          },
+          "Lost Wages Documentation": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T06:49:27.986215Z"
+  }
+}

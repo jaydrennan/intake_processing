@@ -1,0 +1,344 @@
+{
+  "hello_cat": {
+    "name": "hello_cat",
+    "checklist": {
+      "Home": {
+        "checked": true,
+        "children": {
+          "Case Manager (Secretary)": {
+            "checked": true,
+            "children": {}
+          },
+          "Update Status to Treating": {
+            "checked": true,
+            "children": {}
+          },
+          "Supervising Attorney": {
+            "checked": true,
+            "children": {}
+          },
+          "Primary Contact (Attorney Assigned)": {
+            "checked": true,
+            "children": {}
+          },
+          "Lead Attorney": {
+            "checked": true,
+            "children": {}
+          }
+        }
+      },
+      "Client": {
+        "checked": true,
+        "children": {
+          "Contact Details": {
+            "checked": true,
+            "children": {
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Spouse Information": {
+                "checked": false,
+                "children": {
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Cell Phone": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Index Information": {
+            "checked": true,
+            "children": {
+              "Social Security Number": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              },
+              "Verify Name Spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Birth": {
+                "checked": false,
+                "children": {}
+              },
+              "Verify Date of Loss": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Defendant": {
+        "checked": true,
+        "children": {}
+      },
+      "Injuries": {
+        "checked": true,
+        "children": {}
+      },
+      "Health Insurance": {
+        "checked": true,
+        "children": {}
+      },
+      "Employment": {
+        "checked": true,
+        "children": {}
+      },
+      "Incident": {
+        "checked": true,
+        "children": {}
+      }
+    },
+    "last_modified": "2024-11-21T04:29:20.254434Z"
+  },
+  "Document 3": {
+    "name": "fdas",
+    "checklist": {
+      "Employment": {
+        "checked": true,
+        "children": {}
+      },
+      "Injuries": {
+        "checked": true,
+        "children": {}
+      },
+      "Home": {
+        "checked": false,
+        "children": {
+          "Primary Contact (Attorney Assigned)": {
+            "checked": false,
+            "children": {}
+          },
+          "Case Manager (Secretary)": {
+            "checked": false,
+            "children": {}
+          },
+          "Lead Attorney": {
+            "checked": false,
+            "children": {}
+          },
+          "Supervising Attorney": {
+            "checked": false,
+            "children": {}
+          },
+          "Update Status to Treating": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Client": {
+        "checked": false,
+        "children": {
+          "Index Information": {
+            "checked": false,
+            "children": {
+              "Date of Birth": {
+                "checked": false,
+                "children": {}
+              },
+              "Verify Name Spelling": {
+                "checked": false,
+                "children": {}
+              },
+              "Social Security Number": {
+                "checked": false,
+                "children": {}
+              },
+              "Verify Date of Loss": {
+                "checked": false,
+                "children": {}
+              },
+              "Date of Incident": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          },
+          "Contact Details": {
+            "checked": false,
+            "children": {
+              "Cell Phone": {
+                "checked": false,
+                "children": {}
+              },
+              "Email": {
+                "checked": false,
+                "children": {}
+              },
+              "Emergency Contact": {
+                "checked": false,
+                "children": {
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Spouse Information": {
+                "checked": false,
+                "children": {
+                  "OK to Discuss": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Phone Number": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Marital Status": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "Last Name": {
+                    "checked": false,
+                    "children": {}
+                  },
+                  "First Name": {
+                    "checked": false,
+                    "children": {}
+                  }
+                }
+              },
+              "Home Address": {
+                "checked": false,
+                "children": {}
+              }
+            }
+          }
+        }
+      },
+      "Health Insurance": {
+        "checked": true,
+        "children": {}
+      },
+      "Incident": {
+        "checked": true,
+        "children": {}
+      },
+      "Defendant": {
+        "checked": false,
+        "children": {}
+      }
+    },
+    "last_modified": "2024-11-21T04:21:57.632473Z"
+  },
+  "Document 1": {
+    "name": "Document 1",
+    "checklist": {},
+    "last_modified": "2024-11-21T04:12:45.789902Z"
+  },
+  "Document 2": {
+    "name": "Document 2",
+    "checklist": {
+      "Legal Research": {
+        "checked": true,
+        "children": {
+          "Case Law Research": {
+            "checked": true,
+            "children": {}
+          },
+          "Precedent Review": {
+            "checked": true,
+            "children": {}
+          },
+          "Statutory Analysis": {
+            "checked": true,
+            "children": {}
+          }
+        }
+      },
+      "Initial Case Review": {
+        "checked": false,
+        "children": {
+          "Conflict Check": {
+            "checked": true,
+            "children": {}
+          },
+          "Client Interview": {
+            "checked": false,
+            "children": {}
+          },
+          "Review Case Documents": {
+            "checked": false,
+            "children": {}
+          }
+        }
+      },
+      "Document Preparation": {
+        "checked": true,
+        "children": {
+          "Filing Preparation": {
+            "checked": true,
+            "children": {}
+          },
+          "Draft Pleadings": {
+            "checked": true,
+            "children": {}
+          },
+          "Evidence Collection": {
+            "checked": true,
+            "children": {}
+          }
+        }
+      }
+    },
+    "last_modified": "2024-11-21T04:16:28.941563Z"
+  }
+}

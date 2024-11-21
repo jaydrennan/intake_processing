@@ -1,0 +1,29 @@
+[package]
+name = "legal-case-checklist"
+version = "0.1.0"
+edition = "2021"
+
+# Add this section for Windows builds
+[package.metadata.bundle]
+name = "Legal Case Checklist"
+identifier = "com.your-name.legal-case-checklist"
+icon = ["path/to/icon.ico"]  # Optional: Add if you have an icon
+target = ["x86_64-pc-windows-gnu"]
+
+[dependencies]
+eframe = { version = "0.24.0", features = ["default"] }
+egui = "0.24.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+image = "0.24"
+egui_extras = { version = "0.24", features = ["image"] }
+lopdf = "0.31"
+rfd = "0.11"
+indexmap = { version = "2.1.0", features = ["serde"] }
+pdf = "0.8"
+
+# Add these Windows-specific dependencies
+[target.'cfg(windows)'.dependencies]
+winres = "0.1"
+winapi = { version = "0.3", features = ["winuser", "windef"] }
